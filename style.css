@@ -1,0 +1,30 @@
+#cookie{
+    width: 300px;
+    border-style: double;
+    border-color: darkred;
+    border-width: 10px;
+}
+body{
+    font-family: "Baloo Bhaina 2", cursive;
+    text-align: center;
+    background-color: darkcyan;
+}
+
+#soresection{
+    width: 600px;
+    display: inline-block;
+}
+
+.scoretext{
+    height: 150px;
+    width: 250px;
+    border-style: dotted;
+    border-color: blue;
+    border-width: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.numbers{
+    font-size: 40px;
+}
